@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>597664386430-agq9b03lftkgls94c0sa4j96v3rc1hfg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.597664386430-agq9b03lftkgls94c0sa4j96v3rc1hfg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB_EreJIHnptM9rlu-U2-FB1Y0vD89YGpU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>597664386430</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.TableViewList</string>
+	<key>PROJECT_ID</key>
+	<string>reactbuysell</string>
+	<key>STORAGE_BUCKET</key>
+	<string>reactbuysell.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:597664386430:ios:ab68c822408e22b3f4372f</string>
+	<key>DATABASE_URL</key>
+	<string>https://reactbuysell.firebaseio.com</string>
+</dict>
+</plist>
